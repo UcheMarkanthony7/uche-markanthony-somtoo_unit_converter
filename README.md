@@ -21,3 +21,6 @@ I added a Conversion History feature that saves every conversion and shows it wh
 
 ## What I learned
 I learned how to use functions, loops and if/elif/else to build a menu program. I also learned how to handle wrong input with try/except so the program does not crash when a user types a letter.
+
+## Author
+Uche Markanthony Somtoo, ND1 Mechatronics Engineering, YabaTech
